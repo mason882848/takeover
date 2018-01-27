@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["NSTi0"]); }
+
+__d("LeftNavSeeMore",["csx","cx","CSS","LeftNavScrollable","Parent"],(function a(b,c,d,e,f,g,h,i){"use strict";__p&&__p();var j={onClick:function k(l){__p&&__p();var m,n=c("Parent").bySelector(l,"._5pyq");if(n instanceof HTMLElement){c("CSS").removeClass(n,"_5pyq");if(n.matches&&!n.matches(":hover"))(function(){var o=n.querySelector("._3odl ._5afe");o&&setTimeout(function(){return o.focus()})})();c("LeftNavScrollable").init(n)}}};f.exports=j}),null);
